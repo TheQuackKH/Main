@@ -242,7 +242,7 @@ do
             _connections = connections,
             
             size = size,
-            keybind = Enum.KeyCode.LeftControl,
+            keybind = Enum.KeyCode.LeftAlt,
             visible = true,
             tabs = {},
             selectedTab = 1,
